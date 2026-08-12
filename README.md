@@ -48,4 +48,4 @@ This project aims to analyze supply chain inventory and sales data using Excel a
 
   
 ## Excel Dashboard image
-![Supply Chain Dashboard](Dashboard%20image%20.png)
+![Supply Chain Dashboard](.png)
