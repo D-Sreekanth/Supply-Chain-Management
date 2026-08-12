@@ -47,5 +47,5 @@ This project aims to analyze supply chain inventory and sales data using Excel a
 - Enhanced sales and delivery performance monitoring
 
   
-## Dashboard-2 image
-
+## Excel Dashboard image
+![Supply Chain Dashboard](Dashboard%20image%20.png)
