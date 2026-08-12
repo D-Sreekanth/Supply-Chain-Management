@@ -49,4 +49,10 @@ This project aims to analyze supply chain inventory and sales data using Excel a
 ## Dashboards Preview
 
 ### Excel Dashboard
+
+![Power Bi Dashboard](Power%20Bi%20Dashboard.png)
+
+
+### Excel Dashboard
+
 ![Excel Dashboard](Excel%20Dashboard.png)
